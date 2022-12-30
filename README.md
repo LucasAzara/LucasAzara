@@ -18,7 +18,7 @@
 
 - 🗪  Fluently Bilinguel in both English and Brazilian Portuguese
 
-- 🌎 Brazilian who was raised in the USA and is currently located in Brazil
+- 🌎 Brazilian who was raised in the USA and currently in Brazil
 
 - 🎮 Hobbies include: Video Games, Reading and Movies
 </div>
