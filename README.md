@@ -10,9 +10,11 @@
 </div>
 <div align="left">
 
-- 🖥️ Web Developer who's currently learning React at [Rocketseat](https://github.com/Rocketseat)
+- 🖥️ Web Developer who's currently participating in a React course at [Rocketseat](https://github.com/Rocketseat)
+  
+ - 📝 As well as learning Tailwind CSS, Docker and React Jest Testing
 
-- ⌨️ Currently Employed by [Cast Group](https://www.linkedin.com/company/cast-group/mycompany/verification/) as a Backend JavaScript Developer
+ <!-- - ⌨️ Currently working as a -->
 
 - 🎓 Computer Science Bachelor from [PUC-Goiás](https://www.pucgoias.edu.br)
 
@@ -20,11 +22,12 @@
 
 - 🌎 Brazilian who was raised in the USA and currently in Brazil
 
-- 🎮 Hobbies include: Video Games, Reading and Movies
+- 🎮 Hobbies include: Video Games, Reading, Tv Shows and Movies
+  
 </div>
 
 <div>
-  <img align="right" alt="SASS" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="right" alt="SASS" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="right" alt="CSS" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="HTML" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="right" alt="React" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
